@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="200px" src="https://github.com/DEROTOX/serv.telegram_bot/blob/main/intro.gif" alt="Telegram-bot" />
+  <img width="250px" src="https://github.com/DEROTOX/DEROTOX/blob/main/b36764e786335c687c5cdaf14abacaee_w200-2352652653.gif" alt="Telegram-bot" />
 </p>
